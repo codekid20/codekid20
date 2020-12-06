@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![ADITYA's github stats](https://github-readme-stats.vercel.app/api?username=codekid20&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codekid20)](https://github.com/codekid20/github-readme-stats)
