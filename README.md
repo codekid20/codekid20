@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hey Everyone 👋
 
 
-**codekid20/codekid20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **codekid20/codekid20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
